@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk, Image
-
+#
 root = Tk()
 root.title("Simple image")
 root.iconbitmap("C:/Users/sudhe/PycharmProjects/pythonProject/hi.ico")
